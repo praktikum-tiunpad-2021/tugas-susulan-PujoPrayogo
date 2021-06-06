@@ -31,7 +31,7 @@ Stack<T> Top;
  * 
  * @return          pointer ke puncak stack
  */
-template <typename T>
+template <typename T>w
 Stack<T> createStack(Stack<T> Top) {
   // TODO: Implementasikan!
   return nullptr;
