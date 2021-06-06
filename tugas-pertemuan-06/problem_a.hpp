@@ -53,4 +53,4 @@ int getEqualStack(Stack<T> Top1, Stack<T> Top2, Stack<T> Top3);
  * 
  * @return            'true' jika seimbang dan 'false' jika tidak seimbang
  */
-bool isBracketBalanced(std::string expression);
+bool isBracketBalanced(std::string expression); 
